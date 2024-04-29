@@ -16,14 +16,14 @@ export default {
       
     },
     backgroundImage :{
-      'ban':"url(./src/assets/banner.png)" ,
-      'our':"url(./src/assets/Services1.png)" ,
-      'our01':"url(./src/assets/Services2.png)" ,
-      'our02':"url(./src/assets/Services3.png)" ,
-      'ab':"url(./src/assets/about.png)" ,
-      'bl01':"url(./src/assets/blog01.png)" ,
-      'bl02':"url(./src/assets/blog02.png)" ,
-      'bl03':"url(./src/assets/blog03.png)" ,
+      'ban':"url('/src/assets/banner.png')" ,
+      'our':"url('/src/assets/Services1.png')" ,
+      'our01':"url('/src/assets/Services2.png')" ,
+      'our02':"url('/src/assets/Services3.png')" ,
+      'ab':"url('/src/assets/about.png')" ,
+      'bl01':"url('/src/assets/blog01.png')" ,
+      'bl02':"url('/src/assets/blog02.png')" ,
+      'bl03':"url('/src/assets/blog03.png')" ,
       
     },
     
